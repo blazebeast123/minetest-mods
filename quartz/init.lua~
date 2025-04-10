@@ -1,0 +1,6 @@
+minetest.register_node('quartz:sample1', {
+	description = 'Quartz',
+	tiles = {'quartz.png'},
+	groups = {cracky = 3},
+	wield_scale = {x=5, y=5, z=5},
+})
